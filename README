@@ -1,0 +1,5 @@
+Install ReadWriteMemory in Command prompt or powershell
+pip install ReadWriteMemory
+
+For Python 3
+Tested in Python 3.11.4
